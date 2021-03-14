@@ -62,6 +62,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/burkebrunson/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8745-0324
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Daniel_Brunson
@@ -71,9 +74,6 @@ social:
 - icon: zotero
   icon_pack: ai
   link: https://www.zotero.org/burke.brunson
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-8745-0324
 - icon: patreon
   icon_pack: fab
   link: https://www.patreon.com/dbbrunson
