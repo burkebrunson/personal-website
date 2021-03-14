@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dbbrunson.com
+Token: 7e18ab5755f243363ed6843359fd6c1f2363e6fbbd82a094735c17afaad88816
