@@ -20,40 +20,44 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: ""
+phone: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 81 Cornell St. Stop 8358
+  city: Grand Forks
+  region: ND
+  postcode: '58202'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '47.919851'
+  longitude: '-97.068496'
+directions: Enter Leonard Hall and take the stairs or elevator down to Rm. 11 (Geothermal Lab) in the building basement.
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Spring 2021 Hours'
+  - 'Monday 12:30pm to 1:30pm'
+  - 'Tuesday 12:30pm to 1:30pm'
+  - 'Wednesday 12:30pm to 1:30pm'
+  - 'Thursday 12:30pm to 1:30pm'
+  - 'Friday 12:30pm to 1:30pm'
+appointment_url: 'https://outlook.office365.com/owa/calendar/DanielBBrunson@ad.ndus.edu/bookings/'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Follow me on Twitter
+    link: 'https://twitter.com/BurkeBrunson'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
