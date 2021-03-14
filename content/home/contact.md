@@ -3,11 +3,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 60
 
 title: Contact
 subtitle:
