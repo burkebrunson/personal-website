@@ -145,12 +145,12 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'OpenStreetMap'
   api_key: ''
-  zoom: 15
+  zoom: 17
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
+  google_analytics: 'UA-169862352-1'
+  google_tag_manager: 'GTM-T7JXMXV'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
