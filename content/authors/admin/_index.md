@@ -53,39 +53,42 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: google-scholar  # Alternatively, use 'graduation-cap' icon from 'fas' icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=KHb9X_0AAAAJ&hl
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Daniel_Brunson
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/burkebrunson/
-- icon: zotero
-  icon_pack: ai
-  link: https://www.zotero.org/burke.brunson
-- icon: github
-  icon_pack: fab
-  link: https://github.com/burkebrunson
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BurkeBrunson
-- icon: twitch
+- icon: github
   icon_pack: fab
-  link: https://www.twitch.tv/burkebrunson
-# - icon: instagram
-#   icon_pack: fab
-#   link: https://www.instagram.com/burkebrunson/
-- icon: youtube
+  link: https://github.com/burkebrunson
+- icon: linkedin
   icon_pack: fab
-  link: https://www.youtube.com/channel/UC3qiUKDWBYzG2NCAn7a8A1w
-# - icon: vimeo
-#   icon_pack: fab
-#   link: https://www.vimeo.com/burkebrunson
+  link: https://www.linkedin.com/in/burkebrunson/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Daniel_Brunson
+- icon: google-scholar  # Alternatively, use 'graduation-cap' icon from 'fas' icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=KHb9X_0AAAAJ&hl
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/burke.brunson
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8745-0324
 - icon: patreon
   icon_pack: fab
   link: https://www.patreon.com/dbbrunson
+- icon: twitch
+  icon_pack: fab
+  link: https://www.twitch.tv/burkebrunson
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UC3qiUKDWBYzG2NCAn7a8A1w
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/burkebrunson/
+# - icon: vimeo
+#   icon_pack: fab
+#   link: https://www.vimeo.com/burkebrunson
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
