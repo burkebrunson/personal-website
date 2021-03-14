@@ -145,7 +145,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '3'
+  provider: 'mapnik'
   api_key: ''
   zoom: 17
 marketing:
