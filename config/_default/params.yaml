@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: daniel.brunson@und.edu
+email: ""
 phone: ""
 address:
   street: 81 Cornell St. Stop 8358
@@ -145,7 +145,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'OpenStreetMap'
+  provider: '3'
   api_key: ''
   zoom: 17
 marketing:
