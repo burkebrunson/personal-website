@@ -1,6 +1,6 @@
 ---
 title: "An example conference paper"
-
+draft: true
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -35,6 +35,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
+categories: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -43,6 +44,8 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+#   icon_pack: fab
+#   icon: twitter
 
 url_pdf: ''
 url_code: ''
