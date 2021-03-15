@@ -2,39 +2,51 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c3608b33-01c9-41cb-8077-b4f6730ae563/deploy-status)](https://app.netlify.com/sites/dbbrunson/deploys)
 
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+# [Personal Website](https://www.dbbrunson.com)
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+[![Avatar](https://github.com/burkebrunson/personalWebsite/blob/master/content/authors/admin/avatar.jpeg)](https://www.dbbrunson.com)
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+## Short Biography:
+Daniel <u>Burke</u> Brunson is a doctoral student in Geology at the University of North Dakota Harold Hamm School of Geology and Geological Engineering in Grand Forks, ND with research advisor Dr. William Gosnold. His subdisciplines of focus are geophysics, structural geology, and geodynamics. His research interests include geothermics and computational modeling.
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+Burke assists in management of the UND Geothermal Lab, which specializes in techniques to characterize geothermal resources. These techniques include divided bar and portable divided bar thermal conductivity measurement devices, borehole temperature logging equipment, and a gamma ray spectrometer for rock material uranium, thorium, and potassium radioactivity measurements. The lab also contains various applied geophysics field and lab equipment. He also works as a Core Library Technician for the North Dakota Geological Survey’s Wilson M. Laird Core and Sample Library.
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+A Master's thesis project involving creation of a computational 2-D thermal model and geothermal gradient assessment of the Williston Basin was undertaken in 2016-2017 and completed in December 2017. Prior to re-entering school, he worked for Schlumberger as a Geoservices Offshore Drilling Data Analyst out of Lafayette, LA. Burke holds a M.S. degree in Geology and GISc in Geography from University of North Dakota and two B.S. degrees from The University of Alabama in Tuscaloosa, AL and enjoys the outdoors for adventure and exercise activities.
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+## Interests:
+- General & Practical Geothermics
+- Geodynamics
+- Computational Modeling
+- Data Science
+- Physical Geography
+- Geostatistics
+- Remote Sensing
 
-## Crowd-funded open-source software
+## Education:
+- Ph.D. in Geology, University of North Dakota, (current)
+- GISc in Geography, University of North Dakota, 2019
+- M.S. in Geology, University of North Dakota, 2017
+- B.S.G. in Geology, University of Alabama, 2013
+- B.S. in Biology and Chemistry (Dual Major), University of Alabama, 2006
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Social:
+- [Twitter](https://twitter.com/BurkeBrunson)
+- [LinkedIn](https://www.linkedin.com/in/burkebrunson/)
+- [ResearchGate](https://www.researchgate.net/profile/Daniel_Brunson)
+- [Google Scholar](https://scholar.google.com/citations?user=KHb9X_0AAAAJ&hl)
+- [OrcID](https://orcid.org/0000-0002-8745-0324)
+- [Zotero](https://www.zotero.org/burke.brunson)
+- [Patreon](https://www.patreon.com/dbbrunson)
+- [Twitch](https://www.twitch.tv/burkebrunson)
+- [Youtube](https://www.youtube.com/channel/UC3qiUKDWBYzG2NCAn7a8A1w)
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+## Contact:
+- [Book an appointment](https://outlook.office365.com/owa/calendar/DanielBBrunson@ad.ndus.edu/bookings/)
 
-## Ecosystem
+## License:
+This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
+Published with [Academic Template](https://wowchemy.com) for [Hugo](https://github.com/gohugoio/hugo)
 
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
