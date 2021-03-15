@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Blog
-    url: 'https://festive-franklin-ab09ac.netlify.app/post'
+    url: 'https://festive-franklin-ab09ac.netlify.app/blog/'
     weight: 50
   - name: Projects
     url: '#projects'
