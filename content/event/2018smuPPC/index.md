@@ -27,7 +27,7 @@ authors: [admin]
 tags: ["Basement", "Computed Thermal Model", "Computer Models", "Crystalline Basement", "Elevated Heat Flow", "Eocene", "Geophysics", "Geothermal Gradient", "Geothermal Gradients", "Heat Flow", "Maturity Index", "Maturity Indices", "Model", "North Dakota", "Radioactive Heat Generation", "Radioactivity", "Thermostratigraphy", "Williston Basin"]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
