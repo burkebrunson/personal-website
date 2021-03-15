@@ -4,8 +4,6 @@
 
 # [Personal Website](https://www.dbbrunson.com)
 
-[![Avatar](https://github.com/burkebrunson/personalWebsite/blob/master/content/authors/admin/avatar.jpeg)](https://www.dbbrunson.com)
-
 ## Short Biography:
 Daniel <u>Burke</u> Brunson is a doctoral student in Geology at the University of North Dakota Harold Hamm School of Geology and Geological Engineering in Grand Forks, ND with research advisor Dr. William Gosnold. His subdisciplines of focus are geophysics, structural geology, and geodynamics. His research interests include geothermics and computational modeling.
 
