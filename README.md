@@ -1,3 +1,7 @@
+# Website Status:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3608b33-01c9-41cb-8077-b4f6730ae563/deploy-status)](https://app.netlify.com/sites/dbbrunson/deploys)
+
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
