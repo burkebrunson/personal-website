@@ -29,7 +29,7 @@ image:
   caption: '[**Wowchemy**](https://wowchemy.com/blog/introducing-wowchemy/)'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
@@ -99,3 +99,7 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+
+{{% callout note %}}
+Content reproduced from the starterkit [example post](https://github.com/wowchemy/starter-academic/blob/master/content/post/getting-started/index.md) of Academic theme from Wowchemy.
+{{% /callout %}}

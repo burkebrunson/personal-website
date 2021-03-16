@@ -29,7 +29,7 @@ image:
   caption: '[**Codepie**](https://www.flickr.com/photos/135936104@N02/34271173264)'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
