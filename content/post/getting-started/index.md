@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://wowchemy.com/img/logo_200px.png)'
+  caption: 'Image credit: [**Wowchemy**](https://github.com/wowchemy/starter-academic/blob/master/README.md)'
   focal_point: ""
   placement: 2
   preview_only: false
