@@ -1,9 +1,9 @@
 ---
-title: Welcome to my Blog (WIP)
-subtitle: I've been busy setting up a blog using Wowchemy, a website builder for Hugo, the same tool I've been using for a while to build my personal webpage.
+title: A non-technical guide on making a clean personal website for professionals (WIP)
+subtitle: How to set up a professional personal website using Wowchemy, a website builder for Hugo, with the clean Academic theme.
 
 # Summary for listings and search engines
-summary: I've been busy setting up a blog using Wowchemy, a website builder for Hugo, the same tool I've been using for a while to build my personal webpage.
+summary: How to set up a professional personal website using Wowchemy, a website builder for Hugo, with the clean Academic theme.
 
 # Link this post with a project
 projects: []
@@ -57,14 +57,6 @@ categories: []
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
 
 ## Ecosystem
 
