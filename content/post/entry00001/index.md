@@ -1,5 +1,5 @@
 ---
-title: Important information for Wowchemy, the website builder for Hugo | Blog "#1"
+title: Important information for Wowchemy, the website builder for Hugo | Blog \#1
 subtitle: Useful information and links related to Wowchemy, the website builder for Hugo, the tool used to build my personal website.
 
 # Summary for listings and search engines
