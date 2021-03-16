@@ -45,6 +45,10 @@ categories: []
 
 ---
 
+{{% callout note %}}
+Content reproduced from the starterkit [example post](https://github.com/wowchemy/starter-academic/blob/master/content/post/getting-started/index.md) of Academic theme from Wowchemy.
+{{% /callout %}}
+
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -99,7 +103,3 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
-
-{{% callout note %}}
-Content reproduced from the starterkit [example post](https://github.com/wowchemy/starter-academic/blob/master/content/post/getting-started/index.md) of Academic theme from Wowchemy.
-{{% /callout %}}
