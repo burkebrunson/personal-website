@@ -1,18 +1,18 @@
 ---
-title: Important information for Wowchemy, the website builder for Hugo
-subtitle: Useful information and links related to Wowchemy, the website builder for Hugo, the tool used to build my personal website.
+title: A non-technical guide on making a clean personal website for professionals | Blog /#2 (WIP)
+subtitle: How to set up a professional personal website using Wowchemy, a website builder for Hugo, with the clean Academic theme.
 
 # Summary for listings and search engines
-summary: Useful information and links related to Wowchemy, the website builder for Hugo, the tool used to build my personal website.
+summary: How to set up a professional personal website using Wowchemy, a website builder for Hugo, with the clean Academic theme.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2021-03-15T00:00:00Z"
+date: "2021-03-15T20:28:00Z"
 
 # Date updated
-lastmod: "2021-03-15T00:00:00Z"
+lastmod: "2021-03-15T20:28:00Z"
 
 # Is this an unpublished draft?
 draft: false
