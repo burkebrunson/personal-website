@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Wowchemy**](https://github.com/wowchemy/starter-academic/blob/master/README.md)'
+  caption: '[**Wowchemy**](https://wowchemy.com/blog/introducing-wowchemy/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -36,6 +36,7 @@ tags:
 - Wowchemy
 - Hugo
 - Blog
+- Website
 
 categories: []
 
