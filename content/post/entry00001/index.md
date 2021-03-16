@@ -1,9 +1,9 @@
 ---
-title: "Important information for Wowchemy, the website builder for Hugo | Blog #1"
-subtitle: Useful information and links related to Wowchemy, the website builder for Hugo, the tool used to build my personal website.
+title: "Blog #1 | Information and links for using the Academic theme SSG from Wowchemy"
+subtitle: Pertinent information and links for using Academic theme startkit for Wowchemy, a website builder for the static site generator (SSG) Hugo.
 
 # Summary for listings and search engines
-summary: Useful information and links related to Wowchemy, the website builder for Hugo, the tool used to build my personal website.
+summary: Pertinent information and links for using Academic theme startkit for Wowchemy, a website builder for the static site generator (SSG) Hugo.
 
 # Link this post with a project
 projects: []
