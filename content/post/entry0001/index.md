@@ -1,9 +1,9 @@
 ---
-title: A non-technical guide on making a clean personal website for professionals (WIP)
-subtitle: How to set up a professional personal website using Wowchemy, a website builder for Hugo, with the clean Academic theme.
+title: Important information for Wowchemy, the website builder for Hugo
+subtitle: Useful information and links related to Wowchemy, the website builder for Hugo, the tool used to build my personal website.
 
 # Summary for listings and search engines
-summary: How to set up a professional personal website using Wowchemy, a website builder for Hugo, with the clean Academic theme.
+summary: Useful information and links related to Wowchemy, the website builder for Hugo, the tool used to build my personal website.
 
 # Link this post with a project
 projects: []
