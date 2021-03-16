@@ -103,3 +103,7 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+
+## References
+
+Cushen, G. (2021, March 15). Wowchemy Docs [Static]. Wowchemy: Free Website Builder for Hugo. https://wowchemy.com/docs/
