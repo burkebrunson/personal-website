@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Welcome to my Blog (WIP)
+subtitle: I've been busy setting up a blog using Wowchemy, a website builder for Hugo, the same tool I've been using for a while to build my personal webpage.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: I've been busy setting up a blog using Wowchemy, a website builder for Hugo, the same tool I've been using for a while to build my personal webpage.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-03-15T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-03-15T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,22 +23,22 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://wowchemy.com/img/logo_200px.png)'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
+- Wowchemy
+- Hugo
+- Blog
 
-categories:
-- Demo
-- 教程
+categories: []
+
 ---
 
 ## Overview
