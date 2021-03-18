@@ -78,11 +78,11 @@ address_format: en-us
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
-  - r
-math: true
-diagram: true
+  - r, python
+math: false
+diagram: false
 privacy_pack: true
 edit_page:
   repo_url: ''
