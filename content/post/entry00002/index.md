@@ -1,5 +1,5 @@
 ---
-title: "Blog #2 | A non-technical guide on making a clean personal website for professionals (WIP)"
+title: "Blog #2 | A non-technical guide on making a clean personal website for professionals"
 subtitle: A step-by-step guide to set up a professional website and/or blog using Academic theme startkit for Wowchemy, a website builder for the static site generator (SSG) Hugo.
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary: A step-by-step guide to set up a professional website and/or blog using
 projects: []
 
 # Date published
-date: "2021-03-15T20:28:00Z"
+date: "2021-03-19T20:28:00Z"
 
 # Date updated
-lastmod: "2021-03-15T20:28:00Z"
+lastmod: "2021-03-19T20:28:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -48,7 +48,7 @@ categories: []
 
 ---
 
-Over time, I have accumulated a number of topics that, when I encounter them, I will say something like, "Yeah, that's really important; I should work on that," or the like. Learning the how and why of working with computer code, registering for and using a Git version control system like GitHub, learning why living in plain text files can be very helpful and useful, and setting up a personal website and blog are topics that fell on that list. Previously, it seemed like life always got in the way, and I never get around to it. Then, this past year and a half happened, and, with it, a number of events (such as remote work and the simultaneous deplatforming of people from social media for reasons that could be used against anyone at any time) took place that cast a 1 million watt flashlight on the face of this sleeping man, and I couldn't avoid the matter any longer. Not only had I always wanted to work on these things, but the world also seemed to be presenting me with the exact circumstances that led me to think they were good ideas in the first place. So, I set out to work on these things. When I was in the midst of setting up the Blog, I knew that one of the first entries I should make was to highlight the process I used to create my website and blog; here we are. It turns out that writing this entry was easier than I thought it would be, because the process was made so simple using the tools I chose.
+Over time, I have accumulated a number of topics that, when I encounter them, I will say something like, "Yeah, that's really important; I should work on that," or the like. Learning the how and why of working with computer code, registering for and using a Git version control system like GitHub, learning why living in plain text files can be very helpful and useful, and setting up a personal website and blog are topics that fell on that list. Previously, it seemed like life always got in the way, and I never get around to it. Then, this past year and a half happened, and, with it, a number of events (such as remote work and the simultaneous deplatforming of people from social media for reasons that could be used against anyone at any time) took place that cast a 1 million lumen light on the face of this sleeping man, and I couldn't avoid the matter any longer. Not only had I always wanted to work on these things, but the world also seemed to be presenting me with the exact circumstances that led me to think they were good ideas in the first place. When I was in the midst of setting up the Blog, I knew that one of the first entries I should make was to highlight the process I used to create my website and blog; here we are. It turns out that writing this entry was easier than I thought it would be, because the process was made so simple using the tools and resources I chose.
 
 ## Initial setup
 
