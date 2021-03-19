@@ -9,10 +9,10 @@ summary: A step-by-step guide to set up a professional website and/or blog using
 projects: []
 
 # Date published
-date: "2021-03-19T20:28:00Z"
+date: "2021-03-19T11:00:00Z"
 
 # Date updated
-lastmod: "2021-03-19T20:28:00Z"
+lastmod: "2021-03-19T11:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
