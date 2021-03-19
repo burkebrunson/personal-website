@@ -15,7 +15,7 @@ date: "2021-03-15T20:28:00Z"
 lastmod: "2021-03-15T20:28:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
@@ -88,7 +88,11 @@ If Coil web monetization of your website is not something you wish to do, you ca
 
 Coil is an attempt to remove the need for advertising revenue from content produced for the web in order to reward creators by micropayments instead. Website viewers who want to support this model can pay a small monthly subscription to Coil and install an extension in their a web browser. Whenever a person visits a web page that is web monetized, the extension installed on that person's browser will ensure that a small revenue is paid to the creator via the Interledger Protocol, a blockchain web protocol. It is incredibly powerful tech that could fundamentally change the way we generate revenue around the web; you can read more about Coil [here] (https://coil.com/) and Interledger Protocol [here](https://interledger.org/).
 
+In order to monetize content on your site, you will need to [sign up for a free Creator account](https://coil.com); if you already have a Coil Creator account, you can skip this step. Log into your account and look to the top right (next to "+ New Post") and click on that menu and select ["Settings."](https://coil.com/settings/account) The tab you are looking for is ["Monetize Content."](https://coil.com/settings/monetize) However, if you haven't done so, yet, you will need to set up a wallet for payouts via the ["Payouts" tab](https://coil.com/settings/payouts). Choose which service you wish to use and, if necessary, set up an account with them.
+
 It took me a while of drilling into the folder hierarchy of my website files, looking for the answer, before I finally gave up and went to the Wowchemy Discord forums. It turns out, I was completely looking at the wrong approach and location to make modifications. I am thankful that there is such a generous community support around this project; in particular, I would like to give a nod to Rodrigo Alcaraz de la Osa, an incredibly talented individual, for his assitance in helping me find the solution to this step. It turns out, modifying the header section of Wowchemy, such that the same modified code shows up on every web page header, is very easy.
+
+In order to monetize your content, you will need to place a file called `custom_head.html` in `(website root)/layouts/partials`, as described [here](https://wowchemy.com/docs/guide/extending-wowchemy/#custom-head). In the `custom_head.html` file you create, place the code provided to you by Coil in your 
 
 ## Updating the site
 Wowchemy regularly undergoes updates that are detailed in the builder's blog. As suggested by the Update Guide of the Wowchemy Docs, one should look to the relevant blog posts that occur between the time of your latest Wowchemy update and apply the Breaking Changes whenver attempting the next update. It is helpful to regularly check in on the blog and read over the news, because the reasons for making changes are usually detailed, and you'll get information on *why* you would want to update.
