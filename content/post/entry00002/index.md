@@ -50,7 +50,8 @@ categories: []
 
 Over time, I have accumulated a number of topics that, when I encounter them, I will say something like, "Yeah, that's really important; I should work on that," or the like. Learning the how and why of working with computer code, registering for and using a Git version control system like GitHub, learning why living in plain text files can be very helpful and useful, and setting up a personal website and blog are topics that fell on that list. Previously, it seemed like life always got in the way, and I never get around to it. Then, this past year and a half happened, and, with it, a number of events (such as remote work and the simultaneous deplatforming of people from social media for reasons that could be used against anyone at any time) took place that cast a 1 million lumen light on the face of this sleeping man, and I couldn't avoid the matter any longer. Not only had I always wanted to work on these things, but the world also seemed to be presenting me with the exact circumstances that led me to think they were good ideas in the first place. When I was in the midst of setting up the Blog, I knew that one of the first entries I should make was to highlight the process I used to create my website and blog; here we are. It turns out that writing this entry was easier than I thought it would be, because the process was made so simple using the tools and resources I chose.
 
-## Initial setup
+
+## **Initial setup**
 
 When I made the committment to this endeavor, I began searching for a good solution to setting up a professional website, one which came with a guide that could help me get up and going quickly and provide me with quick, observable positive reinforcement that showed me I was doing things correctly. I came across a blog entry from [Dr. Daniel Quintana](https://www.dsquintana.com/) and, when I read it, saw how easy it was, and looked at the results, I knew I found my solution. I also have read thoughts from a plehora of people in the development communities who are switching away from typical blogging platforms like Wordpress and Ghost to go with a SSG (such as Hugo, Gatsby, or Jekyll) and chose Hugo to do so. The reviews I've read have been very positive of it, and my experience with Hugo echos those reviews.
 
@@ -64,7 +65,8 @@ One customization I made is that I changed the title of the `Posts` page to `Blo
 
 There are some quick key customizations I think you should consider implementing that are detailed next, so read on.
 
-## (Optional) I do not have a blog widget on the homepage; how do I link to the archive of my blog posts?
+
+## **(Optional) I do not have a blog widget on the homepage; how do I link to the archive of my blog posts?**
 
 {{% callout note %}}
 This section is for those who wish to have a link to their blog posts archive in the navigation menu and who set up the full Resume template **and** did not set up a posts widget on the the home page. 
@@ -74,7 +76,8 @@ If you do not have a Posts widget active on your homepage, remove `#post` and ad
 
 If you would like to change the title that appears on the archive page of the blog, that can be done by opening `(website root)/content/post/_index.md` and changing the title to your preference.
 
-## (Optional) To enable comments or not to enable comments
+
+## **(Optional) To enable comments or not to enable comments**
 
 {{% callout note %}}
 If you have zero interest in enabling a commenting system on your website, you can skip this section.
@@ -82,7 +85,8 @@ If you have zero interest in enabling a commenting system on your website, you c
 
 In my opinion, the choice regarding whether or not [to enable and allow comments](https://wowchemy.com/docs/guide/comments/) on your site (or [which parts of the site you prefer to allow comments](https://wowchemy.com/docs/guide/comments/#choose-where-users-can-comment)) is a decision that likely rests on how active you wish to remain on other social media platforms. If you are choosing to make this site as a way of starting to divest yourself from the modern digital ghettos we've all electively adopted and given our lives too, then you may wish to have some ability to interact with people who visit your site. However, perhaps you will remain active on other platforms; in that case, trying to manage the comments on the site and the same workload you usually deal with on other platforms may become overwhelming. (Author's note: I used to moderate a Telegram group with tens of thousands of accounts in it that focused on XRP (most of which were bots), and my experience indicates that it is possible for moderating comments to be more work than you think it will be, depending on how much traffic you drive.)
 
-## (Optional) Coil Monetization
+
+## **(Optional) Coil Monetization**
 
 {{% callout note %}}
 If Coil web monetization of your website is not something you wish to do, you can skip this section.
@@ -98,7 +102,8 @@ In order to monetize your content, you will need to place a file called `custom_
 
 Once you have updated your website files and pushed the updates to GitHub for deployment, you can check to make sure your setup is working correctly by installing the [Coil browser extension](https://help.coil.com/docs/membership/coil-extension) and visiting your site. If the setup was done correctly, when you click on the Coil extension, it will tell you that the website is monetized. Congratulations - you now have an ability to earn revenue from the content you produce!
 
-## Updating the site
+
+## **Updating the site**
 
 Wowchemy regularly undergoes updates that are detailed in the builder's blog. As suggested by the Update Guide of the Wowchemy Docs, one should look to the relevant blog posts that occur between the time of your latest Wowchemy update and apply the Breaking Changes whenver attempting the next update. It is helpful to regularly check in on the blog and read over the news, because the reasons for making changes are usually detailed, and you'll get information on *why* you would want to update.
 https://wowchemy.com/blog/.
@@ -107,7 +112,8 @@ I also used my [first blog post](https://www.dbbrunson.com/post/entry00001/) to 
 
 As of this point, you can consider this guide finished. The final section of this post is only meant for advanced users who have some experience with maintaining servers. The chances are, if this guide is of any actual use to you, the next section is not adviseable for you to attempt.
 
-## (Optional & Advanced) Self-hosting
+
+## **(Optional & Advanced) Self-hosting**
 
 {{% callout warning %}}
 This section is only for the ambitious, who want to own their data and web services; however, it is not for the Faint of Heart.
@@ -119,7 +125,8 @@ You are hereby warned.
 
 Assuming that your site will not be driving a tremendous volume of traffic that really demands the highest grade hardware and support available to keep up with demand, you may want to give self-hosting a try. Self-hosting is the act of maintaining the hardware needed to serve a service, such as a website, to people who are using the appropriate address information to find it. In the context of this blog post, self-hosting would replace the need for GitHub and, depending on your choices, Namecheap. This is the ultimate step in ensuring that your content is as censorless as possible on the open web. Will Ho wrote great blog posts [here]](https://ikarus.sg/how-i-started-self-hosting/?ref=hackernoon.com) and [here](https://ikarus.sg/how-i-built-kraken/) detailing how to set this up and what considerations are needed. I will leave it to his better abilities to explain how to go about accomplishing this. Best of luck to you on this endeavor!
 
-## References:
+
+## **References**
 
 Cushen, G. (2021, March 15). Wowchemy Docs [Static]. Wowchemy: Free Website Builder for Hugo. https://wowchemy.com/docs/
 
