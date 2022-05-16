@@ -94,7 +94,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 16
+    zoom: 17
 
 # Extensions
 
