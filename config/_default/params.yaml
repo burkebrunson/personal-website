@@ -5,158 +5,105 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: L
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: BurkeBrunson
-
-# Contact (edit or remove options as required)
-
-email: ""
-phone: ""
-address:
-  street: 81 Cornell St. Stop 8358
-  city: Grand Forks
-  region: ND
-  postcode: '58202'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '47.919851'
-  longitude: '-97.068496'
-directions: Enter Leonard Hall and take the stairs or elevator down to Rm. 11 (Geothermal Lab) in the building basement.
-office_hours:
-  - 'Summer 2022 Hours'
-  - 'Monday 12:30pm to 1:30pm'
-  - 'Tuesday 12:30pm to 1:30pm'
-  - 'Wednesday 12:30pm to 1:30pm'
-  - 'Thursday 12:30pm to 1:30pm'
-  - 'Friday 12:30pm to 1:30pm'
-appointment_url: 'https://outlook.office365.com/owa/calendar/DanielBBrunson@ad.ndus.edu/bookings/'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow me on Twitter
-    link: 'https://twitter.com/BurkeBrunson'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
-#  - icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'The homepage of Daniel B. Brunson.'
+    twitter: 'BurkeBrunson'
+  analytics:
+    google_analytics: 'UA-169862352-1'
+    google_tag_manager: 'GTM-T7JXMXV'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: 'Daniel B. Brunson © {year}. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
-highlight: false
-highlight_languages:
-  - r, python
-math: false
-diagram: false
-privacy_pack: true
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: false
-  page: false
-  post: true
-  project: false
-  publication: false
-  event: false
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: true
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/burkebrunson/personalWebsite'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: 'mapnik'
-  api_key: ''
-  zoom: 16
-marketing:
-  google_analytics: 'UA-169862352-1'
-  google_tag_manager: 'GTM-T7JXMXV'
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 16
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true
