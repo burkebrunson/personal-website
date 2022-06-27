@@ -6,3 +6,7 @@
 public/
 jsconfig.json
 node_modules/
+content/.DS_Store
+content/post/.DS_Store
+.gitignore
+.DS_Store
