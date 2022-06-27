@@ -1,12 +1,9 @@
 ---
-title: "Blog #3 | A Guide To Enabling Trading Functionality Through The XRPL
-Decentralized Exchange (WIP)"
-subtitle: A Report Submitted to the XRP Community in Partial Fulfillment of the
-Requirements for Understanding the XRPL DEX Capabilities
+title: "Blog #3 | A Guide To Enabling Trading Functionality Through The XRPL Decentralized Exchange (WIP)"
+subtitle: A Report Submitted to the XRP Community in Partial Fulfillment of the Requirements for Understanding the XRPL DEX Capabilities
 
 # Summary for listings and search engines
-summary: A Report Submitted to the XRP Community in Partial Fulfillment of the
-Requirements for Understanding the XRPL DEX Capabilities
+summary: A Report Submitted to the XRP Community in Partial Fulfillment of the Requirements for Understanding the XRPL DEX Capabilities
 
 # Link this post with a project
 projects: []
