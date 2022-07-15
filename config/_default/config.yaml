@@ -30,7 +30,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -50,7 +50,7 @@ imaging:
   resampleFilter: lanczos
   quality: 75
   anchor: smart
-timeout: 600000
+timeout: 100000
 taxonomies:
   tag: tags
   category: categories
@@ -71,3 +71,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+minify:
+  disableHTML: true
