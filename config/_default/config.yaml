@@ -7,6 +7,14 @@ title: Daniel B. Brunson # Website name
 baseURL: "https://www.dbbrunson.com/" # Website URL
 
 ############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  share: true
+  reading_time: true
+
+############################
 ## LANGUAGE
 ############################
 
