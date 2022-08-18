@@ -16,17 +16,17 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The homepage of Daniel B. Brunson.'
-    twitter: 'BurkeBrunson'
+    local_business_type: ""
+    org_name: ""
+    description: "The homepage of Daniel B. Brunson."
+    twitter: "BurkeBrunson"
   analytics:
-    google_analytics: 'UA-169862352-1'
-    google_tag_manager: 'GTM-T7JXMXV'
-    baidu_tongji: ''
+    google_analytics: "UA-169862352-1"
+    google_tag_manager: "GTM-T7JXMXV"
+    baidu_tongji: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 
@@ -44,9 +44,9 @@ header:
 
 footer:
   copyright:
-    notice: 'Daniel B. Brunson © {year}. This work is licensed under {license}'
+    notice: "Daniel B. Brunson &copy; 2017 &ndash; {year}. All rights reserved."
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -54,8 +54,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
   address_format: en-us
 
 # Site features
@@ -66,34 +66,36 @@ features:
     extra_languages:
       - r
       - latex
+    theme_light: minimal
+    theme_dark: minimal
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/burkebrunson/personalWebsite'
+    url: "https://github.com/burkebrunson/personalWebsite"
     content_dir: content
     branch: master
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: "discord"
     disqus:
-      shortname: ''
+      shortname: ""
       show_count: true
     commento:
-      url: ''
+      url: ""
   search:
     provider: wowchemy
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: ""
+      api_key: ""
+      index_name: ""
       show_logo: false
   map:
-    provider: 'mapnik'
-    api_key: ''
+    provider: "mapnik"
+    api_key: ""
     zoom: 17
 
 # Extensions
@@ -107,3 +109,18 @@ extensions:
     enable: true
   academicons:
     enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
+
+sharing_image: sharing.png
+sharing_image_en: sharing-en.png
+sharing_image_ca: sharing-ca.png
+
+abstract_length: 135
+
+plugins_js:
+  - footnotes
