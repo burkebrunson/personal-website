@@ -121,6 +121,3 @@ sharing_image_en: sharing-en.png
 sharing_image_ca: sharing-ca.png
 
 abstract_length: 135
-
-plugins_js:
-  - footnotes
