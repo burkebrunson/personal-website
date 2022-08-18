@@ -9,3 +9,4 @@ node_modules/
 content/.DS_Store
 content/post/.DS_Store
 .DS_Store
+.hugo_build.lock
