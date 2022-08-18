@@ -66,8 +66,8 @@ features:
     extra_languages:
       - r
       - latex
-    theme_light: minimal
-    theme_dark: minimal
+    theme_light: github-light
+    theme_dark: github-dark
   math:
     enable: true
   privacy_pack:
@@ -80,7 +80,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: "discord"
+    provider: ""
     disqus:
       shortname: ""
       show_count: true
