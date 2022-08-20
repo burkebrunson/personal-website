@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ""
     org_name: ""
-    description: "The homepage of Daniel B. Brunson."
+    description: "The homepage of Daniel Burke Brunson. &copy; Daniel Burke Brunson, unless otherwise specified. All rights reserved."
     twitter: "BurkeBrunson"
   analytics:
     google_analytics: "UA-169862352-1"
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: "Daniel B. Brunson &copy; 2017 &ndash; {year}. All rights reserved."
+    notice: "&copy; 2017 &ndash; {year} Daniel Burke Brunson, unless otherwise specified. All rights reserved."
     license:
       enable: false
       allow_derivatives: false
