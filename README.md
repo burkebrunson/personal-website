@@ -6,9 +6,9 @@ Repository ![visitors](https://visitor-badge.glitch.me/badge?page_id=burkebrunso
 
 Website deployment status: [![Netlify Status](https://api.netlify.com/api/v1/badges/c3608b33-01c9-41cb-8077-b4f6730ae563/deploy-status)](https://app.netlify.com/sites/dbbrunson/deploys)
 
-The homepage of Daniel Burke Brunson.
+The Homepage of Daniel Burke Brunson.
 
-&copy; 2017 &ndash; {year} Daniel Burke Brunson, unless otherwise specified. All rights reserved.
+&copy; 2017 &ndash; 2022 Daniel Burke Brunson, unless otherwise specified. All rights reserved.
 
 This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
