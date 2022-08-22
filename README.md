@@ -17,13 +17,3 @@ the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_bl
 open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 Hosted on <a href="https://github.com/burkebrunson/personalWebsite" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>. Domain by <a href="https://www.namecheap.com" target="_blank" rel="noopener">Namecheap</a>.
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F8LKLJ7M3Q"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-F8LKLJ7M3Q');
-</script>
