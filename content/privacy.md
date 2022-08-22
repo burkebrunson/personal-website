@@ -12,8 +12,10 @@ header:
   image: ""
 ---
 
-Nothing on this website requires you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends. The information is collected by Google Analytics; here is the [Google Analytics](https://support.google.com/analytics/answer/6004245) privacy page.
+Site traffic is monitored by Google Analytics 4; here is the [Google Analytics](https://support.google.com/analytics/answer/6004245) privacy page. Visitor IP addresses are not collected, and nothing on this site requires you to identify yourself. Non-identifying data, such as browser type, operating system, pages viewed while browsing the site, page access times and referring website address are presented to me as and aggregated report. I use this information to gauge visitor traffic and trends.
 
-I do not personally maintain this information and have no access to it other than as aggregated reports; I have no ability to share this information with 3rd parties. 
+I do not personally maintain this information and have no access to it other than as an aggregated report.
 
-This information is collected via cookies. Most web browsers allow you to control handling of cookies. You can disable all cookies for this website without in any way reducing the functionality for you. I have designed this website so that your IP address is anonymized within Google Analytics and the “Do Not Track” request is respected.
+I do not share this information with 3rd parties.
+
+This information is collected via cookies. Most web browsers allow you to control handling of cookies. You can disable all cookies for this website without in any way reducing the functionality for you. This website is designed this website to respect the “Do Not Track” request of modern web browsers.
