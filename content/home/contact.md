@@ -37,11 +37,9 @@ content:
   coordinates:
     latitude: "47.919851"
     longitude: "-97.068496"
-  directions: Enter Leonard Hall and take the stairs or elevator down to Rm. 11 (Geothermal Lab) in the building basement.
+  directions: Enter Leonard Hall and take the stairs or elevator to the 2nd floor (2) and go to Rm. 206 (Planetary Geology) or to the Basement (B) and go to Rm. 11 (Geothermal Lab), depending on meeting location.
   office_hours:
-    - "Summer 2022 Hours"
-    - "Monday 01:00pm to 02:00pm"
-    - "Wednesday 01:00pm to 02:00pm"
+    - Meetings by appointment are preferred, but I maintain an open door policy.
   appointment_url: "https://outlook.office365.com/owa/calendar/DanielBBrunson@ad.ndus.edu/bookings/"
   contact_links:
     - icon: twitter
