@@ -67,7 +67,7 @@ features:
       - r
       - latex
     theme_light: github-light
-    theme_dark: github-dark
+    theme_dark: dracula
   math:
     enable: true
   privacy_pack:
@@ -75,7 +75,7 @@ features:
   repository:
     url: "https://github.com/burkebrunson/personalWebsite"
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -102,7 +102,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter

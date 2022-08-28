@@ -82,3 +82,4 @@ sitemap:
   _merge: deep
 minify:
   disableHTML: true
+  _merge: deep
