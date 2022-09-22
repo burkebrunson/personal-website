@@ -21,8 +21,7 @@ marketing:
     description: "The homepage of Daniel Burke Brunson. &copy; Daniel Burke Brunson, unless otherwise specified. All rights reserved."
     twitter: "BurkeBrunson"
   analytics:
-    google_analytics: "UA-169862352-1"
-    google_tag_manager: "GTM-T7JXMXV"
+    google_analytics: "G-WT8M34YG4K"
     baidu_tongji: ""
   verification:
     google: ""
@@ -62,10 +61,6 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
     theme_light: github-light
     theme_dark: dracula
   math:
@@ -86,6 +81,11 @@ features:
       show_count: true
     commento:
       url: ""
+    giscus:
+      repo: ""
+      repo_id: ""
+      category: ""
+      category_id: ""
   search:
     provider: wowchemy
     algolia:
