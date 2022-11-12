@@ -1,4 +1,4 @@
-Repository ![visitors](https://visitor-badge.glitch.me/badge?page_id=burkebrunson.personalWebsite)
+Repository ![visitors](https://visitor-badge.glitch.me/badge?page_id=burkebrunson.personal-website)
 
 # [Daniel Burke Brunson](https://bit.ly/3hqKx7R)
 
