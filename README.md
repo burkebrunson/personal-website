@@ -1,10 +1,10 @@
 # [Daniel Burke Brunson](https://bit.ly/3hqKx7R)
 
-A homepage of Daniel Burke Brunson.
+A homepage of Daniel Burke Brunson
 
 Website deployment status: [![Netlify Status](https://api.netlify.com/api/v1/badges/c3608b33-01c9-41cb-8077-b4f6730ae563/deploy-status)](https://app.netlify.com/sites/dbbrunson/deploys)
 
-&copy; 2017 &ndash; 2023 Daniel Burke Brunson.
+&copy; 2017 &ndash; 2023 Daniel Burke Brunson
 
 This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
