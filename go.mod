@@ -1,6 +1,6 @@
 module github.com/burkebrunson/personalWebsite
 
-go 1.19
+go 1.22
 
 require (
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20221024225820-c51be55f9317
